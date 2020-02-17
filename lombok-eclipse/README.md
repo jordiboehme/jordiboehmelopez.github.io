@@ -1,6 +1,6 @@
 # lombok-eclipse
 Eclipse p2 Repository to install IDE support for Lombok.
-This repository work for manual installation and automated installers like Oomph.
+This repository works for manual installation and automated installers like Oomph.
 
 ## Manual Installation
 * In Eclipse, go to: `Help` > `Install New Software ...`
